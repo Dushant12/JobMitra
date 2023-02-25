@@ -1,0 +1,22 @@
+.sectionqr{
+    background-color: #252121;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+
+.sectionqr img{
+    height: 250px;
+
+}
+
+.sectionqr h1{
+    color: #803bec;
+    margin: 0;
+}
+.sectionqr p{
+    color: #e5a1f8;
+    margin-right: 15px;
+}

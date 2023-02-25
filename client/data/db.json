@@ -1,0 +1,95 @@
+{
+  "notes": [
+    {
+      "title": "Training of Rural Youth for Self-Employment (TRYSEM)",
+      "details": "This scheme was started in 1979 with objective to help unemployed rural youth between the age of 18 and 35 years to acquire skills for self-employment.",
+      "category": "reminders",
+      "id": 1,
+      "link":"http://ecoursesonline.iasri.res.in/mod/page/view.php?id=107100"
+    },
+    {
+      "title": "Integrated Rural Development Programme (IRDP)",
+      "details": "The aim of the program is to provide employment opportunities to the poor as well as opportunities to develop their skill sets so as to improve their living conditions.",
+      "category": "todos",
+      "id": 2,
+      "link":"https://www.indiabudget.gov.in/budget_archive/es98-99/chap104.pdf"
+    },
+    {
+      "title": "Mahatma Gandhi National Rural Employment Guarantee Act",
+      "details": "It is an employment scheme that was launched in 2005 to provide social security, by guaranteeing a minimum of 100 days paid work per year to all the families whose adult members opt for unskilled labour-intensive work·The act provides Right to Work to people.",
+      "category": "reminders",
+      "id": 3,
+      "link":"https://www.nrega.nic.in/"
+    },
+    {
+      "title": "RSETI/RUDSETI",
+      "details": "Launched with the aim of mitigating the unemployment problem among the youth,  jointly by Sri Dharmasthala Manjunatheshwara Educational Trust, Syndicate Bank and Canara Bank in 1982, which was the setting up of the “RURAL DEVELOPMENT AND SELF EMPLOYMENT TRAINING INSTITUTE” with its acronym RUDSETI near Dharmasthala in Karnataka·Presently, these are now managed by Banks with active co-operation from the Government of India and State Government..",
+      "category": "todos",
+      "id": 4,
+      "link":"https://rudsetacademy.org/"
+    },
+     {
+      "title": "Jawahar Rozgar Yojana (JRY)",
+      "details": "This was launched by merging National Rural Employment Programme and Rural Landless Employment Guarantee Programme·This was a consolidation of the previous employment programs and it was largest National Employment Program of India at that time with a general objective of providing 90-100 Days Employment per person particularly in backward districts·People below Poverty Line were main targets.",
+      "category": "reminders",
+      "id": 5,
+      "link":"https://www.gktoday.in/topic/jawahar-rozgar-yojna_22/"
+    },
+    {
+      "title": "Sampoorna Grameen Rozgar Yojana",
+      "details": "This was launched by merging the provisions of Employment Assurance Scheme (EAS) and Jawahar Gram Samridhi Yojana (JGSY)·The programme is self-targeting in nature and aims to provide employment and food to people in rural areas who lived below the poverty line..",
+      "category": "todos",
+      "id": 6,
+      "link":"https://www.india.gov.in/sampoorna-grameen-rozgar-yojana-sgry-guidelines"
+    },
+     {
+      "title": "Deen Dayal Antyodaya Yojana – National Livelihoods Mission (NRLM)",
+      "details": "To reduce poverty by enabling the poor households to access gainful self-employment and skilled wage employment opportunities, resulting in appreciable improvement in their livelihoods on a sustainable basis, through building strong grassroots institutions of the poor",
+      "category": "reminders",
+      "id": 7,
+      "link":"https://www.india.gov.in/spotlight/deen-dayal-antyodaya-yojana"
+    },
+    {
+      "title": "National Skill Development Mission",
+      "details": "This was launched to drive the ‘Skill India’ agenda in a ‘Mission Mode’ in order to converge the existing skill training initiatives and combine scale and quality of skilling efforts, with speed.",
+      "category": "todos",
+      "id": 8,
+      "link":"https://www.msde.gov.in/en/reports-documents/policies/NSDM"
+    },
+     {
+      "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "details": "To enable a large number of Indian youth to take up industry-relevant skill training that will help them in securing a better livelihood.",
+      "category": "reminders",
+      "id": 9,
+      "link":"http://www.pmkvyofficial.org/"
+    },
+    {
+      "title": "National Career Service (India)",
+      "details": "National Career Service (NCS) project is a Mission Mode Project launched by the Ministry of Labour and Employment (India)Government of India for establishing quick and efficient career related services across the country by revamping the existing nation-wide set-up of Employment Exchanges into IT-enabled Career Centers.",
+      "category": "todos",
+      "id": 10,
+      "link":"https://www.ncs.gov.in/"
+    },
+     {
+      "title": "Pradhan Mantri Mudra Scheme",
+      "details": "The scheme aims to enable Micro Finance Institutions (MFIs), Non-Banking financial institutions/Companies (NBFCs), Small Finance Banks, RBRs, Commercial Banks, Cooperative Banks, etc. to provide Low Rate Loans to eligible entities·One of the objectives of this scheme is to  help generate sources of employment and increase the overall GDP by providing micro-enterprises with credit facilities.",
+      "category": "reminders",
+      "id": 11,
+      "link":"https://www.mudra.org.in/"
+    },
+    {
+      "title": "Start Up India Scheme",
+      "details": "The primary objective of Startup India is the promotion of startups, generation of employment, and wealth creation. The Startup India has initiated several programs for building a robust startup ecosystem and transforming India into a country of job creators instead of job seekers.",
+      "category": "todos",
+      "id": 12,
+      "link":"https://www.startupindia.gov.in/"
+    },
+     {
+      "title": "Pradhan Mantri Rojgar Protsahan Yojana",
+      "details": "The scheme is aimed at incentivising employers to generate employment, where the Government pays the employers’ Employee Pension Scheme share of 8.33 percent, for new employees for the first three years of their job·The scheme targets workers who earn wages of less than INR 15000 on a monthly basis. It encourages employers of Small and Medium Enterprises and Micro Businesses to avail the benefits of this project.",
+      "category": "reminders",
+      "id": 13,
+      "link":"https://labour.gov.in/pradhan-mantri-rojgar-protsahan-yojanapmrpy"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+#google_translate_element{
+    width:5px ;
+    background-color: transparent !important;
+    color: black !important;
+    border-radius: 3px !important
+  }
+  
+  div#google_translate_element div.goog-te-gadget-simple{
+    background-color: #333;
+    border-color: #222;
+    margin-right: 10px;
+  }
